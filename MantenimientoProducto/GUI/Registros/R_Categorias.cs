@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace MantenimientoProducto.GUI.Consultas
+namespace MantenimientoProducto.GUI.Registros
 {
-    public partial class C_Productos : Form
+    public partial class R_Categorias : Form
     {
-        public C_Productos()
+        public R_Categorias()
         {
             InitializeComponent();
         }
