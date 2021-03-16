@@ -172,6 +172,7 @@ namespace MantenimientoProducto
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            GuardarCambiosButton.Visible = false;
             CargarComboBox();
             ActualizarLista();
         }
